@@ -16,7 +16,7 @@ We used official GloVe repository both to create word embeddings and evaluation.
 Corpus collected from January-December 2018 Commoncrawl.
 This corpus has 2,736M tokens.
 Corpus size: 21GB
-<a href="http://data.statmt.org/cc-100/tr.txt.xz">Corpus Link</a>
+<a href="http://data.statmt.org/cc-100/tr.txt.xz">Corpus Link</a> \
 <a href="https://arxiv.org/pdf/1911.02116.pdf">Paper Link</a>
 
 ## Intrinsic Evaluation
@@ -74,6 +74,6 @@ model.most_similar("kedi")
 
 
 ## References
-https://cs224d.stanford.edu/lecture_notes/notes2.pdf /
+https://cs224d.stanford.edu/lecture_notes/notes2.pdf \
 https://nlp.stanford.edu/pubs/glove.pdf
 
