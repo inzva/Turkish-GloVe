@@ -64,18 +64,18 @@ We used the given machine learning techniques with default hyperparameters in sc
 ```
 model.most_similar(positive=['fransa', 'berlin'], negative=['almanya'])
 ```
-
+![city](/image/city.png)
 
 ```
 model.most_similar(positive=['geliyor', 'gitmek'], negative=['gelmek'])
 ```
-
+![verb](/image/verb.png)
 
 
 ```
 model.most_similar("kedi")
 ```
-
+![animal](/image/animal.png)
 
 
 ## References
