@@ -64,7 +64,7 @@ We used the given machine learning techniques with default hyperparameters in sc
 ```
 model.most_similar(positive=['fransa', 'berlin'], negative=['almanya'])
 ```
-
+![alt text](https://github.com/atesbilgin/Turkish-GloVe/blob/master/image/city.png?raw=true)
 
 ```
 model.most_similar(positive=['geliyor', 'gitmek'], negative=['gelmek'])
