@@ -32,22 +32,22 @@ The dataset has 7 different classes.
 
 |                  |    SVC    | Logistic Regression | 
 |:----------------:|:---------:|:-------------------:|
-|  GloVe Cased     |     		|					 |  
-|  GloVe Uncased   |     		|					 |
+|  GloVe Cased     |  0.89306  |	  0.89795 	     |  
+|  GloVe Uncased   |     	   |					 |
 
 
 ### Precision
 
 |                 |    SVC    | Logistic Regression | 
 |:---------------:|:---------:|:-------------------:|  
-|  GloVe Cased    |     	  |					|  
-|  GloVe Uncased  |     	  |					|
+|  GloVe Cased    |  0.89388  |		  0.89864  	    |  
+|  GloVe Uncased  |     	  |					    |
 
 ### Recall
 
 |                 |    SVC    | Logistic Regression | 
 |:---------------:|:---------:|:-------------------:| 
-|  GloVe Cased    |     	  |					    |  
+|  GloVe Cased    |  0.89306  |		  0.89796 	    |  
 |  GloVe Uncased  |           |					    |
 
 
