@@ -8,7 +8,8 @@ We used official GloVe repository both to create word embeddings and evaluation.
 
 ## Download pre-trained word vectors
 
-1. 570K Vocab, cased, 300d vectors, 1.6 GB Text, 2.6 GB Binary link: https://drive.google.com/drive/u/0/folders/1RYsIYKdHWDN5vbu1-JNJmIv9K33dTQdG
+1. 570K Vocab, cased, 300d vectors, 1.6 GB Text, 2.6 GB Binary <a href="https://drive.google.com/drive/u/0/folders/1RYsIYKdHWDN5vbu1-JNJmIv9K33dTQdG">link</a>
+
 
 2. 253K Vocab, uncased, 300d vectors, 800 MB Text 1.3 GB Binary link:
 
