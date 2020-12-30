@@ -10,8 +10,7 @@ We used official GloVe repository both to create word embeddings and evaluation.
 
 1. 570K Vocab, cased, 300d vectors, 1.6 GB Text, 2.6 GB Binary <a href="https://drive.google.com/drive/u/0/folders/1RYsIYKdHWDN5vbu1-JNJmIv9K33dTQdG">link</a>
 
-
-2. 253K Vocab, uncased, 300d vectors, 800 MB Text 1.3 GB Binary link:
+2. 253K Vocab, uncased, 300d vectors, 720 MB Text 1.2 GB Binary <a href="https://drive.google.com/drive/folders/1q_zE2cvCf_eWDtBSrx6XJFrH3xKofbQX">link</a>:
 
 ## Corpus
 Corpus collected from January-December 2018 Commoncrawl.
@@ -33,23 +32,23 @@ The dataset has 7 different classes.
 
 |                  |    SVC    | Logistic Regression | 
 |:----------------:|:---------:|:-------------------:|
-|  GloVe Cased     |  0.89306  |	  0.89795 	     |  
-|  GloVe Uncased   |     	   |					 |
+|  GloVe Cased     |  0.89306  |	  0.89959 	       |  
+|  GloVe Uncased   |  0.89956  |		0.90530          |
 
 
 ### Precision
 
 |                 |    SVC    | Logistic Regression | 
 |:---------------:|:---------:|:-------------------:|  
-|  GloVe Cased    |  0.89388  |		  0.89864  	    |  
-|  GloVe Uncased  |     	  |					    |
+|  GloVe Cased    |  0.89388  |		  0.89864  	      |  
+|  GloVe Uncased  |  0.90015  |			0.90619		      |
 
 ### Recall
 
 |                 |    SVC    | Logistic Regression | 
 |:---------------:|:---------:|:-------------------:| 
-|  GloVe Cased    |  0.89306  |		  0.89796 	    |  
-|  GloVe Uncased  |           |					    |
+|  GloVe Cased    |  0.89306  |		  0.89796 	      |  
+|  GloVe Uncased  |  0.89959  |			0.90531	        |
 
 
 We used the given machine learning techniques with default hyperparameters in scikit-learn.
