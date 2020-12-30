@@ -24,6 +24,14 @@ This benchmark dataset is used for intrinsic evaluation on analogy task.
 We used synonyms, capitals, and antonyms for analogy task. 
 <a href="https://figshare.com/articles/dataset/Turkish_Word_embedding_benchmark_seed_dataset/10026818">Benchmark Dataset Link</a>
 
+### Results
+
+| Semantic Evaluation |   Antonyms Analogy Task   | Capitals Analogy Task | Synonyms Analogy Task |   Total Accuracy   |
+|:-------------------:|:-------------------------:|:---------------------:|:---------------------:|:------------------:|
+|  GloVe Uncased      |          21.70            |        47.74          |		     19.48          |        27.88       |
+
+
+
 ## Extrinsic Evaluation
 This dataset is used for extrinsic evaluation on text categorization.
 The dataset has 7 different classes. 
