@@ -14,7 +14,7 @@ We used official GloVe repository both to create word embeddings and evaluation.
 
 ## Corpus
 Corpus collected from January-December 2018 Commoncrawl.
-This corpus has 2,736M tokens.
+This corpus has 2,736B tokens.
 Corpus size: 21GB
 <a href="http://data.statmt.org/cc-100/tr.txt.xz">Corpus Link</a> \
 <a href="https://arxiv.org/pdf/1911.02116.pdf">Paper Link</a>
